@@ -18,6 +18,40 @@ I focus on building projects that are not just tutorial-based, but documented li
 
 ---
 
+## 🛠️ Tech Stack
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
+</div>
+
+---
+
 ## 📈 What I'm Working On
 
 Instead of only completing courses, I build and document projects.
@@ -41,40 +75,10 @@ Every project includes:
 
 ---
 
-## 🛠️ Tech Stack
-
-### Operating Systems
-Linux • Ubuntu • Windows Server • MacOs
-
-### Cloud
-AWS • IAM • EC2 • S3 • VPC • RDS
-
-### Containers & DevOps
-Docker • Kubernetes • Helm
-
-### Infrastructure as Code
-Terraform • Ansible
-
-### Scripting & Automation
-Python • Bash • PowerShell
-
-### CI/CD
-GitHub Actions
-
-### Databases
-PostgreSQL • SQL Server
-
-### Monitoring & Troubleshooting
-Prometheus • Grafana
-
-### Networking
-TCP/IP • DNS • Routing • Firewalls • SSH • CCNA Concepts
-
----
-
 ## 🎯 Current Roadmap
 
 My current learning path:
 
 ```text
 Linux → Networking → AWS → Docker → Kubernetes → Terraform → CI/CD → Observability
+```
